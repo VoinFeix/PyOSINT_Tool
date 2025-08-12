@@ -14,7 +14,8 @@ It allows you to gather publicly available information about **usernames, emails
 ---
 
 ## 📸 Screenshots
-> _Add screenshots of your app here_
+
+<img width="454" height="506" alt="pyosint" src="https://github.com/user-attachments/assets/123c197a-3e31-49f8-a7e3-7ab85612ea52" />
 
 --- 
 
@@ -32,7 +33,7 @@ It allows you to gather publicly available information about **usernames, emails
 
 ### 1. Clone the repository
 ```bash
-git clone <URL>
+git clone https://github.com/DevManoj96/PyOSINT_Tool.git
 cd PyOSINT_Tool
 ```
 
