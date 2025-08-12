@@ -1,0 +1,7 @@
+dnspython
+python-dotenv
+requests
+sherlock-project
+shodan
+whois
+
