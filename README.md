@@ -33,7 +33,7 @@ It allows you to gather publicly available information about **usernames, emails
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/DevManoj96/PyOSINT_Tool.git
+git clone https://github.com/VoinFeix/PyOSINT_Tool.git
 cd PyOSINT_Tool
 ```
 
